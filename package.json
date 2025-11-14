@@ -43,9 +43,14 @@
     "@storybook/addon-docs": "^10.0.7",
     "@storybook/preset-create-react-app": "^10.0.7",
     "@storybook/react-webpack5": "^10.0.7",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.4",
+    "@types/react-dom": "^19.2.3",
     "eslint-plugin-storybook": "^10.0.7",
     "prop-types": "^15.8.1",
     "storybook": "^10.0.7",
+    "typescript": "^5.9.3",
     "webpack": "^5.102.1"
   }
 }
